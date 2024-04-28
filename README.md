@@ -20,3 +20,8 @@ The solution includes a client application that allows users to select files fro
 - Estimating the time remaining for the upload to complete.
 - Simple and straightforward setup and configuration for both client and server applications.
 - The project is ideal for users who host their servers on a VPS and need a quick and reliable method to transfer files directly to the server. 
+
+### Picture's:
+![image](https://github.com/encounterbe/File-Uploader-for-VPS/assets/115733614/8b1264d9-cf48-4b62-8379-44b1401a6087)
+![image](https://github.com/encounterbe/File-Uploader-for-VPS/assets/115733614/ffdf26a0-8a17-4c1d-9397-e0f619a3ee9f)
+![image](https://github.com/encounterbe/File-Uploader-for-VPS/assets/115733614/25f6643b-74af-4fe9-8d2b-78048318b161)
