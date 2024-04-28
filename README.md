@@ -1,7 +1,7 @@
 # File-Uploader-for-VPS
 
 # Instructions:
-1. Navigate to line 39, which contains the following line: using (TcpClient client = new TcpClient("SERVERIPADRESS", 20089)).
+1. Navigate to line 39 (Form1.cs (Client Source)), which contains the following line: using (TcpClient client = new TcpClient("SERVERIPADRESS", 20089)).
 2. Remove "SERVERIPADRESS".
 3. Insert the IP address of your server in place of "SERVERIPADRESS".
 
