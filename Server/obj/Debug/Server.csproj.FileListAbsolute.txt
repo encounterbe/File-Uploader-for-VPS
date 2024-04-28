@@ -1,0 +1,11 @@
+C:\Users\htobi\source\repos\Project7\Server\bin\Debug\Server.exe.config
+C:\Users\htobi\source\repos\Project7\Server\bin\Debug\Server.exe
+C:\Users\htobi\source\repos\Project7\Server\bin\Debug\Server.pdb
+C:\Users\htobi\source\repos\Project7\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\htobi\source\repos\Project7\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\htobi\source\repos\Project7\Server\obj\Debug\Server.Form1.resources
+C:\Users\htobi\source\repos\Project7\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\htobi\source\repos\Project7\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\htobi\source\repos\Project7\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\htobi\source\repos\Project7\Server\obj\Debug\Server.exe
+C:\Users\htobi\source\repos\Project7\Server\obj\Debug\Server.pdb
