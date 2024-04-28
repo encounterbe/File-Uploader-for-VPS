@@ -1,4 +1,10 @@
 # File-Uploader-for-VPS
+
+# Instructions:
+1. Navigate to line 39, which contains the following line: using (TcpClient client = new TcpClient("SERVERIPADRESS", 20089)).
+2. Remove "SERVERIPADRESS".
+3. Insert the IP address of your server in place of "SERVERIPADRESS".
+
 ## Contents
 - Client: The client application allows users to select files from their local PC and upload them directly to the VPS. It displays the upload progress, speed, and estimated time remaining.
 - Server: The server application runs on the VPS, receiving uploaded files from the client application and storing them in a specified directory.
