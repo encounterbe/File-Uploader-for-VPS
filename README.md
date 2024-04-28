@@ -1,6 +1,6 @@
 # File-Uploader-for-VPS
 ## Contents
-Client: The client application allows users to select files from their local PC and upload them directly to the VPS. It displays the upload progress, speed, and estimated time remaining.
+Client: The client application allows users to select files from their local PC and upload them directly to the VPS. It displays the upload progress, speed, and estimated time remaining.\n
 Server: The server application runs on the VPS, receiving uploaded files from the client application and storing them in a specified directory.
 
 ## Description
