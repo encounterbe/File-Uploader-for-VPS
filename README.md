@@ -3,7 +3,7 @@
 Client: The client application allows users to select files from their local PC and upload them directly to the VPS. It displays the upload progress, speed, and estimated time remaining.
 Server: The server application runs on the VPS, receiving uploaded files from the client application and storing them in a specified directory.
 
-# Description
+## Description
 File Uploader for VPS is a lightweight client-server solution designed to enable seamless file transfers between a local PC and a virtual private server (VPS). This project provides an efficient and secure method for uploading files directly from a user's local machine to a designated directory on a VPS without relying on third-party services.
 
 The solution includes a client application that allows users to select files from their local PC and upload them directly to the VPS. The client displays upload progress, speed, and estimated time remaining. The server application runs on the VPS and listens for incoming file uploads. It receives the uploaded files from the client and stores them in a specified directory on the server.
